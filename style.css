@@ -325,6 +325,7 @@ footer{
     gap:25px;
     justify-content:center;
     flex-wrap:wrap;
+    margin-top: 10px;
 }
 
 .price-card{
