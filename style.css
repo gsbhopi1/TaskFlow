@@ -384,7 +384,7 @@ summary{
 .newsletter form{
     display:flex;
     justify-content:center;
-    align-items: center;
+    align-items:center;
     gap:15px;
     flex-wrap:wrap;
     margin-top:20px;
